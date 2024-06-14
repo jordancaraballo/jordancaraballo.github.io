@@ -1,0 +1,141 @@
+{
+  "basics": {
+    "name": "Jordan A. Caraballo-Vega",
+    "label": "Computer Engineer",
+    "image": "",
+    "email": "jordan.a.caraballo-vega@nasa.gov",
+    "phone": "(301) 286-7741",
+    "url": "https://jordancaraballo.github.io",
+    "summary": "I work in the intersection between science, machine learning, and high performance computing.",
+    "location": {
+      "address": "8800 Greenbelt Rd",
+      "postalCode": "MD 20771",
+      "city": "Greenbelt",
+      "countryCode": "US",
+      "region": "Maryland"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "jordancaraballovega",
+        "url": "https://www.linkedin.com/in/jordancaraballovega/"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Science Data Processing Branch, NASA Goddard Space Flight Center",
+      "position": "Computer Engineer",
+      "url": "https://science.gsfc.nasa.gov/sci/bio/jordan.a.caraballo-vega",
+      "startDate": "2020-01-01",
+      "endDate": "Pres.",
+      "summary": "Development of AI, high-performance computing, and GPU-accelerated software for the analysis of remotely sensed data.",
+      "highlights": ["Deep Learning"]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "PREM NanoDays",
+      "location": "Humacao, Puerto Rico",
+      "position": "Volunteer",
+      "url": "https://prem.uprh.edu/",
+      "startDate": "2014-08",
+      "endDate": "2020-01",
+      "summary": "Share mini workshops with elementary, middle, and high school students on materials science.",
+      "highlights": ["Group of PREM students who attend rural public schools with mini workshops to teach students about material science."]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Maryland, College Park, Maryland",
+      "location": "Maryland, US",
+      "url": "https://geog.umd.edu/gradprofile/caraballo-vega/jordan-.",
+      "area": "Geographical Sciences",
+      "studyType": "PhD",
+      "startDate": "2022-08-26",
+      "endDate": "Pres.",
+      "score": "10",
+      "courses": ["Remote Sensing"]
+    }
+  ],
+  "awards": [
+    {
+      "title": "John Mather Scholarship",
+      "date": "2017-07-01",
+      "awarder": "National Space Grant Foundation",
+      "url": "https://www.spacegrant.org/mather/2017",
+      "summary": "The funding for the scholarships originated in a generous contribution from the John and Jane Mather Foundation for Science and the Arts which in turn was funded from the award of the 2006 Nobel Prize for Physics to Dr. Mather. The award consists in the designation John Mather Nobel Scholar, plus a $3000 scientific travel grant over a two year period."
+    }
+  ],
+  "certificates": [
+    {
+      "name": "Machine Learning",
+      "date": "2018-01-01",
+      "issuer": "Stanford University",
+      "url": "https://example.com",
+      "icon": "fa-solid fa-location-dot"
+    }
+  ],
+  "publications": [
+    {
+      "name": "Zur Elektrody/namik bewegter Körper",
+      "publisher": "Annalen der Physik",
+      "releaseDate": "1905-06-30",
+      "url": "https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies",
+      "summary": "It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source."
+    }
+  ],
+  "skills": [
+    {
+      "name": "Physics",
+      "level": "Master",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "Quantum Mechanics",
+        "Quantum Computing",
+        "Quantum Information",
+        "Quantum Cryptography",
+        "Quantum Communication",
+        "Quantum Teleportation"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Spanish",
+      "fluency": "Native speaker",
+      "icon": ""
+    },
+    {
+      "language": "English",
+      "fluency": "Fluent",
+      "icon": ""
+    }
+  ],
+  "interests": [
+    {
+      "name": "Remote Sensing",
+      "icon": "fa-solid fa-tag",
+      "keywords": [
+        "Very high-resolution imagery"
+      ]
+    }
+  ],
+  "references": [
+    {
+      "name": "Mark Carroll",
+      "icon": "fa-solid fa-laptop",
+      "reference": "Data Science Group Lead"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Quantum Computing",
+      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
+      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
+      "startDate": "2018-01-01",
+      "endDate": "2018-01-01",
+      "url": "https://example.com"
+    }
+  ]
+}
