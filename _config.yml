@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Jordan A. Caraballo-Vega / He/Him"
+title                    : "Jordan A. Caraballo-Vega"
 title_separator          : "-"
 name                     : &name "Jordan A. Caraballo-Vega"
 description              : &description "personal description"
@@ -22,22 +22,22 @@ repository               : "jordancaraballo/jordancaraballo.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "NASA Goddard Space Flight Center"
+  name             : "Jordan A. Caraballo-Vega"
+  pronouns         : "he/him"  
+  bio              : "Shortening the gap between science and machine learning"
+  location         : "Maryland, US"
+  employer         : "NASA GSFC"
   uri              : # URL
   email            : "jordan.a.caraballo-vega@nasa.gov" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=2IB5HgIAAAAJ&hl=es"
   impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0001-9125-5591"
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : # URL
+  pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  researchgate     : "https://www.researchgate.net/profile/Jordan-Caraballo-Vega"
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
@@ -48,7 +48,7 @@ author:
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : # "bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
