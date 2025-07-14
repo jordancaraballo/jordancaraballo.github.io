@@ -7,7 +7,7 @@ excerpt: "The Realities of Scaling up Deep Learning for Regional, Very High-Reso
 date: 2024-01-01
 venue: "AGU24"
 paperurl: ""
-citation: "Wessels, Konrad, Le, Minh Tri Tri, Wooten, Margaret, Caraballo-Vega, Jordan, Carroll, Mark, Brown, Molly Elizabeth, Neigh, Christopher S R (2024). "The Realities of Scaling up Deep Learning for Regional, Very High-Resolution Land Cover Mapping." <i>AGU24</i>."
+citation: 'Wessels, Konrad, Le, Minh Tri Tri, Wooten, Margaret, Caraballo-Vega, Jordan, Carroll, Mark, Brown, Molly Elizabeth, Neigh, Christopher S R (2024). "The Realities of Scaling up Deep Learning for Regional, Very High-Resolution Land Cover Mapping." <i>AGU24</i>.'
 ---
 
 This publication describes research work presented by Wessels, Konrad, Le, Minh Tri Tri, Wooten, Margaret, Caraballo-Vega, Jordan, Carroll, Mark, Brown, Molly Elizabeth, Neigh, Christopher S R. See the venue for full details.

@@ -7,7 +7,7 @@ excerpt: "Spatial Resolution Impacts on Deep Learning Applications for Land Cove
 date: 2024-01-01
 venue: "AGU Fall Meeting Abstracts"
 paperurl: ""
-citation: "Wooten, Margaret, Neigh, Christopher SR, Caraballo-Vega, Jordan, Wessels, Konrad J, Le, Minh Tri Tri, Carroll, Mark, Brown, Molly Elizabeth (2024). "Spatial Resolution Impacts on Deep Learning Applications for Land Cover Mapping." <i>AGU Fall Meeting Abstracts</i>."
+citation: 'Wooten, Margaret, Neigh, Christopher SR, Caraballo-Vega, Jordan, Wessels, Konrad J, Le, Minh Tri Tri, Carroll, Mark, Brown, Molly Elizabeth (2024). "Spatial Resolution Impacts on Deep Learning Applications for Land Cover Mapping." <i>AGU Fall Meeting Abstracts</i>.'
 ---
 
 This publication describes research work presented by Wooten, Margaret, Neigh, Christopher SR, Caraballo-Vega, Jordan, Wessels, Konrad J, Le, Minh Tri Tri, Carroll, Mark, Brown, Molly Elizabeth. See the venue for full details.

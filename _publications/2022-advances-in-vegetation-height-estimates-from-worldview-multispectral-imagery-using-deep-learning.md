@@ -7,7 +7,7 @@ excerpt: "Advances in Vegetation Height Estimates from WorldView Multispectral I
 date: 2022-01-01
 venue: "AGU Fall Meeting Abstracts"
 paperurl: ""
-citation: "Caraballo-Vega, Jordan, Montesano, Paul, Carroll, Mark, Neigh, Christopher SR, Le, Minh Tri Tri, Wessels, Konrad, Wooten, Margaret, Williams, Zachary (2022). "Advances in Vegetation Height Estimates from WorldView Multispectral Imagery Using Deep Learning." <i>AGU Fall Meeting Abstracts</i>."
+citation: 'Caraballo-Vega, Jordan, Montesano, Paul, Carroll, Mark, Neigh, Christopher SR, Le, Minh Tri Tri, Wessels, Konrad, Wooten, Margaret, Williams, Zachary (2022). "Advances in Vegetation Height Estimates from WorldView Multispectral Imagery Using Deep Learning." <i>AGU Fall Meeting Abstracts</i>.'
 ---
 
 This publication describes research work presented by Caraballo-Vega, Jordan, Montesano, Paul, Carroll, Mark, Neigh, Christopher SR, Le, Minh Tri Tri, Wessels, Konrad, Wooten, Margaret, Williams, Zachary. See the venue for full details.

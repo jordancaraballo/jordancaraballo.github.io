@@ -7,7 +7,7 @@ excerpt: "Height of the Taiga: Discerning Woody Structure Changes in West Alaska
 date: 2024-01-01
 venue: "AGU24"
 paperurl: ""
-citation: "Frost, Melanie, Montesano, Paul, Caraballo-Vega, Jordan, Carroll, Mark, Mac, er, Matthew J, Frost Jr, Gerald V (2024). "Height of the Taiga: Discerning Woody Structure Changes in West Alaska Biome Boundary." <i>AGU24</i>."
+citation: 'Frost, Melanie, Montesano, Paul, Caraballo-Vega, Jordan, Carroll, Mark, Mac, er, Matthew J, Frost Jr, Gerald V (2024). "Height of the Taiga: Discerning Woody Structure Changes in West Alaska Biome Boundary." <i>AGU24</i>.'
 ---
 
 This publication describes research work presented by Frost, Melanie, Montesano, Paul, Caraballo-Vega, Jordan, Carroll, Mark, Mac, er, Matthew J, Frost Jr, Gerald V. See the venue for full details.

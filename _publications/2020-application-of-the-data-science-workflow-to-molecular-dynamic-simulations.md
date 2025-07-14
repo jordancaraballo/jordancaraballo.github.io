@@ -7,7 +7,7 @@ excerpt: "Application of the Data Science Workflow to Molecular Dynamic Simulati
 date: 2020-01-01
 venue: "NCUR"
 paperurl: ""
-citation: "Cant{\'u}, Lemuel I. Rivera, Caraballo-Vega, Jordan, Esteva, Jos{\'e} O. Sotero (2020). "Application of the Data Science Workflow to Molecular Dynamic Simulations." <i>NCUR</i>."
+citation: 'Cant{\’u}, Lemuel I. Rivera, Caraballo-Vega, Jordan, Esteva, Jos{\’e} O. Sotero (2020). "Application of the Data Science Workflow to Molecular Dynamic Simulations." <i>NCUR</i>.'
 ---
 
 This publication describes research work presented by Cant{\'u}, Lemuel I. Rivera, Caraballo-Vega, Jordan, Esteva, Jos{\'e} O. Sotero. See the venue for full details.

@@ -7,7 +7,7 @@ excerpt: "Combining Physics-based and Deep Learning Data-driven Methods to Model
 date: 2024-01-01
 venue: "AGU24"
 paperurl: ""
-citation: "Caraballo-Vega, Jordan, Loboda, Tatiana V, Carroll, Mark, Chen, Dong, Bredder, Allison, Rocha, Adrian V, Badzioch, Rachel, Spradlin, Caleb, Montesano, Paul, Martinez-Vega, Michael (2024). "Combining Physics-based and Deep Learning Data-driven Methods to Model Wildfire Ignition Probability for the Arctic Boreal and Tundra Ecosystems." <i>AGU24</i>."
+citation: 'Caraballo-Vega, Jordan, Loboda, Tatiana V, Carroll, Mark, Chen, Dong, Bredder, Allison, Rocha, Adrian V, Badzioch, Rachel, Spradlin, Caleb, Montesano, Paul, Martinez-Vega, Michael (2024). "Combining Physics-based and Deep Learning Data-driven Methods to Model Wildfire Ignition Probability for the Arctic Boreal and Tundra Ecosystems." <i>AGU24</i>.'
 ---
 
 This publication describes research work presented by Caraballo-Vega, Jordan, Loboda, Tatiana V, Carroll, Mark, Chen, Dong, Bredder, Allison, Rocha, Adrian V, Badzioch, Rachel, Spradlin, Caleb, Montesano, Paul, Martinez-Vega, Michael. See the venue for full details.

@@ -7,7 +7,7 @@ excerpt: "Making our commercial satellite data" Analysis Ready": Surface Reflect
 date: 2023-01-01
 venue: "AGU Fall Meeting Abstracts"
 paperurl: ""
-citation: "Carroll, Mark, Tamkin, Glenn, Neigh, Christopher SR, Montesano, Paul M, Gill, Roger L, Spradlin, Caleb, Caraballo-Vega, Jordan, Frost, Melanie J (2023). "Making our commercial satellite data" Analysis Ready": Surface Reflectance Lite.." <i>AGU Fall Meeting Abstracts</i>."
+citation: 'Carroll, Mark, Tamkin, Glenn, Neigh, Christopher SR, Montesano, Paul M, Gill, Roger L, Spradlin, Caleb, Caraballo-Vega, Jordan, Frost, Melanie J (2023). "Making our commercial satellite data" Analysis Ready": Surface Reflectance Lite.." <i>AGU Fall Meeting Abstracts</i>.'
 ---
 
 This publication describes research work presented by Carroll, Mark, Tamkin, Glenn, Neigh, Christopher SR, Montesano, Paul M, Gill, Roger L, Spradlin, Caleb, Caraballo-Vega, Jordan, Frost, Melanie J. See the venue for full details.

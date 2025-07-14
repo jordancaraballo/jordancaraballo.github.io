@@ -7,7 +7,7 @@ excerpt: "Anomaly detection for the Roman Space Telescope wide field instrument�
 date: 2024-01-01
 venue: "Software and Cyberinfrastructure for Astronomy VIII"
 paperurl: ""
-citation: "Horton, Paul, Memarsadeghi, Nargess, Caraballo-Vega, Jordan A (2024). "Anomaly detection for the Roman Space Telescope wide field instrument’s science data processing pipeline." <i>Software and Cyberinfrastructure for Astronomy VIII</i>."
+citation: 'Horton, Paul, Memarsadeghi, Nargess, Caraballo-Vega, Jordan A (2024). "Anomaly detection for the Roman Space Telescope wide field instrument’s science data processing pipeline." <i>Software and Cyberinfrastructure for Astronomy VIII</i>.'
 ---
 
 This publication describes research work presented by Horton, Paul, Memarsadeghi, Nargess, Caraballo-Vega, Jordan A. See the venue for full details.

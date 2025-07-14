@@ -7,7 +7,7 @@ excerpt: "Coupling Cubesat Remote Sensing and a Process-based Model for Regional
 date: 2024-01-01
 venue: "AGU24"
 paperurl: ""
-citation: "Mullen, Andrew, Watts, Jennifer, Jafarov, Elchin E, Gurbanov, Kamal, Hung, Jacqueline, Dietrich, Zoe, Savage, Kathleen E, Macedo, Marcia, Levenson, Eric, Cooley, Sarah W, others (2024). "Coupling Cubesat Remote Sensing and a Process-based Model for Regional Estimates of Aquatic Greenhouse Gas Emissions." <i>AGU24</i>."
+citation: 'Mullen, Andrew, Watts, Jennifer, Jafarov, Elchin E, Gurbanov, Kamal, Hung, Jacqueline, Dietrich, Zoe, Savage, Kathleen E, Macedo, Marcia, Levenson, Eric, Cooley, Sarah W, others (2024). "Coupling Cubesat Remote Sensing and a Process-based Model for Regional Estimates of Aquatic Greenhouse Gas Emissions." <i>AGU24</i>.'
 ---
 
 This publication describes research work presented by Mullen, Andrew, Watts, Jennifer, Jafarov, Elchin E, Gurbanov, Kamal, Hung, Jacqueline, Dietrich, Zoe, Savage, Kathleen E, Macedo, Marcia, Levenson, Eric, Cooley, Sarah W, others. See the venue for full details.

@@ -7,7 +7,7 @@ excerpt: "Land Use Land Cover Classification in the Amhara Region, Northwest Eth
 date: 2021-01-01
 venue: "AGU Fall Meeting 2021"
 paperurl: ""
-citation: "Alemu, Woubet, Neigh, Christopher, Caraballo-Vega, Jordan, Wooten, Margaret, Muluken, Ejigu (2021). "Land Use Land Cover Classification in the Amhara Region, Northwest Ethiopia, Using Convolutional Neural Networks." <i>AGU Fall Meeting 2021</i>."
+citation: 'Alemu, Woubet, Neigh, Christopher, Caraballo-Vega, Jordan, Wooten, Margaret, Muluken, Ejigu (2021). "Land Use Land Cover Classification in the Amhara Region, Northwest Ethiopia, Using Convolutional Neural Networks." <i>AGU Fall Meeting 2021</i>.'
 ---
 
 This publication describes research work presented by Alemu, Woubet, Neigh, Christopher, Caraballo-Vega, Jordan, Wooten, Margaret, Muluken, Ejigu. See the venue for full details.

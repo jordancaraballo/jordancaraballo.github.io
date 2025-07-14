@@ -7,7 +7,7 @@ excerpt: "Optimization of Geospatial Foundation Models Through the Comparison of
 date: 2024-01-01
 venue: "AGU24"
 paperurl: ""
-citation: "Spradlin, Caleb, Carroll, Mark, Li, Jian, Caraballo-Vega, Jordan, Gong, Jie, Zhang, Stephen, Ding, Leah, Hubert, Dylan (2024). "Optimization of Geospatial Foundation Models Through the Comparison of Downstream Decoder Architectures for 3D Cloud Mask Reconstruction." <i>AGU24</i>."
+citation: 'Spradlin, Caleb, Carroll, Mark, Li, Jian, Caraballo-Vega, Jordan, Gong, Jie, Zhang, Stephen, Ding, Leah, Hubert, Dylan (2024). "Optimization of Geospatial Foundation Models Through the Comparison of Downstream Decoder Architectures for 3D Cloud Mask Reconstruction." <i>AGU24</i>.'
 ---
 
 This publication describes research work presented by Spradlin, Caleb, Carroll, Mark, Li, Jian, Caraballo-Vega, Jordan, Gong, Jie, Zhang, Stephen, Ding, Leah, Hubert, Dylan. See the venue for full details.

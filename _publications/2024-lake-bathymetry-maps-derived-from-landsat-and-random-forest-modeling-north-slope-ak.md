@@ -7,7 +7,7 @@ excerpt: "Lake Bathymetry Maps derived from Landsat and Random Forest Modeling, 
 date: 2024-01-01
 venue: "ORNL DAAC"
 paperurl: ""
-citation: "BLANCO-ROJAS, M, SPRADLIN, CS, CARROLL, ML, FROST, MJ, CARABALLO-VEGA, JA (2024). "Lake Bathymetry Maps derived from Landsat and Random Forest Modeling, North Slope, AK." <i>ORNL DAAC</i>."
+citation: 'BLANCO-ROJAS, M, SPRADLIN, CS, CARROLL, ML, FROST, MJ, CARABALLO-VEGA, JA (2024). "Lake Bathymetry Maps derived from Landsat and Random Forest Modeling, North Slope, AK." <i>ORNL DAAC</i>.'
 ---
 
 This publication describes research work presented by BLANCO-ROJAS, M, SPRADLIN, CS, CARROLL, ML, FROST, MJ, CARABALLO-VEGA, JA. See the venue for full details.

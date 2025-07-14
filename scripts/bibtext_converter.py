@@ -44,6 +44,7 @@ def create_markdown(entry, output_dir):
     # Citation formatting
     citation_authors = ', '.join([a.strip() for a in authors.split('and')])
     citation = f"{citation_authors} ({year}). \"{title}.\" <i>{journal}</i>."
+    citation_yaml = citation.replace("'", "’")  # Replace single quotes to avoid conflicts
 
     # Markdown content
     md_content = f"""---
@@ -55,7 +56,7 @@ excerpt: "{excerpt}"
 date: {date}
 venue: "{journal}"
 paperurl: "{url}"
-citation: "{citation}"
+citation: '{citation_yaml}'
 ---
 
 This publication describes research work presented by {citation_authors}. See the venue for full details.
