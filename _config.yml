@@ -21,7 +21,7 @@ repository               : "jordancaraballo/jordancaraballo.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "jordan-profile.jpeg"
   name             : "Jordan A. Caraballo-Vega"
   pronouns         : "he/him"  
   bio              : "Shortening the gap between science and machine learning"
@@ -57,7 +57,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : jordancaraballovega
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
