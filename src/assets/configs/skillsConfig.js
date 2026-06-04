@@ -19,7 +19,7 @@ import QueryStatsIcon from "@mui/icons-material/QueryStats";
 import TerminalIcon from "@mui/icons-material/Terminal";
 import CloudIcon from "@mui/icons-material/Cloud";
 
-const ICON_SIZE = 50;
+const ICON_SIZE = 52;
 
 const skillsConfig = {
   mainSkills: [
