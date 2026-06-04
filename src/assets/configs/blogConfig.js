@@ -6,7 +6,7 @@ import fastapiSklearn from "../images/fastapi_sklearn.png";
 const blogConfig = [
   {
     id: "blog-8",
-    title: "How to Solve Scheduling Problems in Python Hurray",
+    title: "How to Solve Scheduling Problems in Python Hurray u",
     category: { en: "Operations Research", es: "Investigación de Operaciones" },
     description_i18n: {
       en: "Use linear programming to minimize the gap between required and scheduled resources.",
